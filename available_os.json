@@ -2,7 +2,7 @@
 	{
 		"Architecture": "amd64", 
 		"Distribution": "ubuntu", 
-		"Hash": "", 
+		"Hash": "9e5fecc94b3925bededed0fdca1bd417", 
 		"Major": 14, 
 		"Minor": 4, 
 		"Name": "ubuntu-14.04.3-server-amd64", 
@@ -11,7 +11,7 @@
 	{
 		"Architecture": "amd64", 
 		"Distribution": "ubuntu", 
-		"Hash": "", 
+		"Hash": "dd54dc8cfc2a655053d19813c2f9aa9f", 
 		"Major": 14, 
 		"Minor": 4, 
 		"Name": "ubuntu-14.04.5-server-amd64", 
@@ -20,7 +20,7 @@
 	{
 		"Architecture": "amd64", 
 		"Distribution": "ubuntu", 
-		"Hash": "", 
+		"Hash": "2bce60d18248df9980612619ff0b34e6", 
 		"Major": 16, 
 		"Minor": 4, 
 		"Name": "ubuntu-16.04.2-server-amd64", 
@@ -29,7 +29,7 @@
 	{
 		"Architecture": "x86_64", 
 		"Distribution": "centos", 
-		"Hash": "", 
+		"Hash": "0ca12fe5f28c2ceed4f4084b41ff8a0b", 
 		"Major": 6, 
 		"Minor": 9, 
 		"Name": "CentOS-6.9-x86_64-minimal", 
@@ -38,7 +38,7 @@
 	{
 		"Architecture": "x86_64", 
 		"Distribution": "centos", 
-		"Hash": "", 
+		"Hash": "88c0437f0a14c6e2c94426df9d43cd67", 
 		"Major": 7, 
 		"Minor": 0, 
 		"Name": "CentOS-7-x86_64-Minimal", 
@@ -47,7 +47,7 @@
 	{
 		"Architecture": "x86_64", 
 		"Distribution": "centos", 
-		"Hash": "", 
+		"Hash": "c875b0f1dabda14f00a3e261d241f63e", 
 		"Major": 7, 
 		"Minor": 0, 
 		"Name": "CentOS-7-x86_64-DVD", 
