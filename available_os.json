@@ -1,7 +1,7 @@
 [
 	{
 		"Architecture": "amd64", 
-		"Distribution": "Nushi", 
+		"Distribution": "ubuntu", 
 		"Hash": "", 
 		"Major": "14", 
 		"Minor": "04", 
