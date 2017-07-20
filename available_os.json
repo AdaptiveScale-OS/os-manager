@@ -1,0 +1,47 @@
+[
+	{
+		"Architecture": "amd64", 
+		"Distribution": "ubuntu", 
+		"Hash": "", 
+		"Major": 14, 
+		"Minor": 4, 
+		"Name": "ubuntu-14.04.5-server-amd64", 
+		"URL": "http://releases.ubuntu.com/14.04/ubuntu-14.04.5-server-amd64.iso"
+	},
+	{
+		"Architecture": "amd64", 
+		"Distribution": "ubuntu", 
+		"Hash": "", 
+		"Major": 16, 
+		"Minor": 4, 
+		"Name": "ubuntu-16.04.2-server-amd64", 
+		"URL": "http://releases.ubuntu.com/16.04/ubuntu-16.04.2-server-amd64.iso"
+	},
+	{
+		"Architecture": "x86_64", 
+		"Distribution": "centos", 
+		"Hash": "", 
+		"Major": 6, 
+		"Minor": 9, 
+		"Name": "CentOS-6.9-x86_64-minimal", 
+		"URL": "http://mirrors.sonic.net/centos/6.9/isos/x86_64/CentOS-6.9-x86_64-minimal.iso"
+	},
+	{
+		"Architecture": "x86_64", 
+		"Distribution": "centos", 
+		"Hash": "", 
+		"Major": 7, 
+		"Minor": 0, 
+		"Name": "CentOS-7-x86_64-Minimal", 
+		"URL": "http://buildlogs.centos.org/rolling/7/isos/x86_64/CentOS-7-x86_64-Minimal.iso"
+	},
+	{
+		"Architecture": "x86_64", 
+		"Distribution": "centos", 
+		"Hash": "", 
+		"Major": 7, 
+		"Minor": 0, 
+		"Name": "CentOS-7-x86_64-DVD", 
+		"URL": "http://buildlogs.centos.org/rolling/7/isos/x86_64/CentOS-7-x86_64-DVD.iso"
+	}
+]
