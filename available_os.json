@@ -5,6 +5,15 @@
 		"Hash": "", 
 		"Major": 14, 
 		"Minor": 4, 
+		"Name": "ubuntu-14.04.3-server-amd64", 
+		"URL": "http://old-releases.ubuntu.com/releases/14.04.0/ubuntu-14.04.3-server-amd64.iso"
+	},
+	{
+		"Architecture": "amd64", 
+		"Distribution": "ubuntu", 
+		"Hash": "", 
+		"Major": 14, 
+		"Minor": 4, 
 		"Name": "ubuntu-14.04.5-server-amd64", 
 		"URL": "http://releases.ubuntu.com/14.04/ubuntu-14.04.5-server-amd64.iso"
 	},
