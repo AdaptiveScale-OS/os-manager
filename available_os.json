@@ -52,5 +52,14 @@
 		"Minor": 0, 
 		"Name": "CentOS-7-x86_64-DVD-1706-01", 
 		"URL": "https://buildlogs.centos.org/rolling/7/isos/x86_64/CentOS-7-x86_64-DVD-1706-01.iso"
+	},
+	{
+		"Architecture": "x86_64", 
+		"Distribution": "centos", 
+		"Hash": "", 
+		"Major": 7, 
+		"Minor": 0, 
+		"Name": "CentOS-7-x86_64-DVD", 
+		"URL": "http://buildlogs.centos.org/rolling/7/isos/x86_64/CentOS-7-x86_64-DVD.iso"
 	}
 ]
